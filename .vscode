@@ -1,0 +1,5 @@
+{
+  "javascript.suggest.completeFunctionCalls": false,
+  "typescript.suggest.completeFunctionCalls": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false
+}
